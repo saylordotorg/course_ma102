@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA102: Single-Variable Calculus II"
+course_description: "In this course, the main focus is on five types of functions: linear, polynomial, rational, exponential, and logarithmic. In accompaniment with these functions, you will learn how to solve equations and inequalities, graph, find domains and ranges, combine functions, and solve a multitude of real-world applications."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Parametric Equations and Polar Coordinates** <span
 id="4"></span> 
 *So far we have worked in Cartesian (rectangular) coordinates where

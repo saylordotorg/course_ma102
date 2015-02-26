@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA102: Single-Variable Calculus II"
+course_description: "In this course, the main focus is on five types of functions: linear, polynomial, rational, exponential, and logarithmic. In accompaniment with these functions, you will learn how to solve equations and inequalities, graph, find domains and ranges, combine functions, and solve a multitude of real-world applications."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Techniques and Principles of Integration** <span
 id="3"></span> 
 *Until now, we have been spending the majority of our time on the
