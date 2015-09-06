@@ -1,6 +1,16 @@
 Course Syllabus for "MA102: Single-Variable Calculus II"
 --------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_ma102) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This course is the second installment of Single-Variable Calculus. In
 Part I [(MA101)](http://www.saylor.org/courses/ma101/), we studied
 limits, derivatives, and basic integrals as a means to understand the
