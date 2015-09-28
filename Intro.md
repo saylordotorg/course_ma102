@@ -229,3 +229,4 @@ consider taking a break to revisit
 - [Unit 5](https://legacy.saylor.org/ma102/Unit05/)
 - [Unit 6](https://legacy.saylor.org/ma102/Unit06/)
 - [Unit 7](https://legacy.saylor.org/ma102/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA102/MA102-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA102/MA102-FinalExam-Answers.html)
