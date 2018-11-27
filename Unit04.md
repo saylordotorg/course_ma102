@@ -126,9 +126,9 @@ three-dimensional space by adding an equation for z as a function of t.*
     Curves” and “Calculus with Parameterized Curves”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Parameterization of Plane
-    Curves](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-4.1-Parameterization-of-Plane-Curves.pdf)” (PDF)
+    Curves](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-4.1-Parameterization-of-Plane-Curves.pdf)” (PDF)
     and “[Calculus with Parameterized
-    Curves](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-4.1-Calculus-with-Parameterized-Curves.pdf)” (PDF)  
+    Curves](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-4.1-Calculus-with-Parameterized-Curves.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -169,7 +169,7 @@ angle from the positive x-axis (measured counter-clockwise).*
     Coordinates”**
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 7: Trigonometric Functions: “[Section 7.7: Polar
-    Coordinates](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
+    Coordinates](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 7.7
     in its entirety (pages 406 through 411).  Polar coordinates use two
@@ -226,7 +226,7 @@ angle from the positive x-axis (measured counter-clockwise).*
     “Supplemental Notes for Calculus II: Polar Coordinates”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Polar
-    Coordinates](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-4.2-Polar-Coordinates.pdf)” (PDF)  
+    Coordinates](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-4.2-Polar-Coordinates.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -255,7 +255,7 @@ id="4.3"></span> 
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 7: Trigonometric Functions: “[Section 7.8: Slopes
     and Curve Sketching Polar
-    Coordinates](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
+    Coordinates](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 7.8
     in its entirety (pages 412 through 419).  Here, you will learn tips
@@ -294,7 +294,7 @@ id="4.3"></span> 
     Coordinates”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Graphing in Polar
-    Coordinates](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-4.3-Graphing-in-Polar-Coordinates.pdf)” (PDF)  
+    Coordinates](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-4.3-Graphing-in-Polar-Coordinates.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -321,7 +321,7 @@ id="4.3"></span> 
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 7: Trigonometric Functions: “[Section 7.9 Area in
     Polar
-    Coordinates](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
+    Coordinates](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 7.9
     in its entirety (pages 420 through 424).  
@@ -384,7 +384,7 @@ id="4.3"></span> 
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 7: Trigonometric Functions: “[Section 7.10:
     Length of a Curve in Polar
-    Coordinates](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
+    Coordinates](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 7.10
     in its entirety (pages 425 through 427).  
@@ -402,7 +402,7 @@ id="4.3"></span> 
     Coordinates”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Integration in Polar
-    Coordinates](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-4.5-Integration-in-Polar-Coordinates.pdf)” (PDF)  
+    Coordinates](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-4.5-Integration-in-Polar-Coordinates.pdf)” (PDF)  
       
      Also Available in:  
 

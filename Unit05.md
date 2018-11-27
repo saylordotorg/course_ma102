@@ -90,7 +90,7 @@ sequence of numbers ordered by some rule or function.*
     Sequences and Series: “Section 11.1 Sequences”**
     Link: Whitman College: David Guichard’s *Calculus*: Chapter 11:
     Sequences and Series: “[Section 11.1:
-    Sequences](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Guichard-Chapter-11.pdf)” (PDF)  
+    Sequences](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Guichard-Chapter-11.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read the brief
     introduction to chapter 11 and Section 11.1 (pages 253 through
@@ -165,7 +165,7 @@ important types of series.*
     Sequences and Series: “Section 11.2 Series”**
     Link: Whitman College: David Guichard’s *Calculus*: Chapter 11:
     Sequences and Series: “[Section 11.2:
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Guichard-Chapter-11.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Guichard-Chapter-11.pdf)” (PDF)  
       
      Instructions: Please click on the link above, scroll down and read
     Section 11.2 in its entirety (pages 260 through 263).  This section
@@ -234,7 +234,7 @@ can also find the sum of the series exactly.*
     Series: “Section 10.1: The Geometric Series”**
     Link: MIT: Gilbert Strang’s *Calculus*: Chapter 10: Infinite Series:
     “[Section 10.1: The Geometric
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Strang-Chapter-10.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Strang-Chapter-10.pdf)” (PDF)  
       
      Instructions: Read the several paragraphs at the beginning of
     chapter 10 (the discussion of the geometric series begins here) and
@@ -345,7 +345,7 @@ tests on a divergent series.*
     Series: “Section 10.2: Convergence Tests: Positive Series”**
     Link: MIT: Gilbert Strang’s *Calculus*: Chapter 10: Infinite Series:
     “[Section 10.2 Convergence Tests: Positive
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Strang-Chapter-10.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Strang-Chapter-10.pdf)” (PDF)  
       
      Instructions: This reading will cover sub-subunits 5.3.1 – 5.3.6. 
     Please click on the link above, and read Section 10.2 in its
@@ -489,7 +489,7 @@ test.  *
     Comparison Test”**
     Link: Furman University: Dan Sloughter’s *Difference Equations to
     Differential Equations*: “[5.4 Infinite Series: The Comparison
-    Test](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Sloughter-Chapter-5.4.pdf)” (PDF)  
+    Test](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Sloughter-Chapter-5.4.pdf)” (PDF)  
       
      Instructions: Please click the link above, and do problems 1 (a, c,
     e, g), 2 (a, c, e, g), and 4.  When finished, click
@@ -591,9 +591,9 @@ conclude the series have the same convergence behavior.*
     of Nonnegative Terms” and “Infinite Series”**
     Link: Clinton Community College: Elizabeth Wood’s Supplemental Notes
     for Calculus II:  “[Ratio and Root Test for Series of Nonnegative
-    Terms](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-5.3.6-Ratio-and-Root-Test-for-Series-of-Nonnegative-Terms.pdf)” (PDF)
+    Terms](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-5.3.6-Ratio-and-Root-Test-for-Series-of-Nonnegative-Terms.pdf)” (PDF)
     and “[Infinite
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-5.3.6-Infinite-Series.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-5.3.6-Infinite-Series.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -654,7 +654,7 @@ following it.*
     Sequences and Series: “Section 11.4: Alternating Series”**
     Link: Whitman College: David Guichard’s *Calculus*: Chapter 11:
     Sequences and Series: “[Section 11.4: Alternating
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Guichard-Chapter-11.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Guichard-Chapter-11.pdf)” (PDF)  
       
      Instructions: Please click on the link above, locate Chapter 11,
     and read Section 11.4 in its entirety (pages 269 through 273).  
@@ -693,7 +693,7 @@ following it.*
     “Supplemental Notes for Calculus II: Alternating Series”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Alternating
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-5.4.1-Alternating-Series.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-5.4.1-Alternating-Series.pdf)” (PDF)  
       
      Also Availabe in:  
 
@@ -733,7 +733,7 @@ converges, absolutely.*
     Series: “Section 10.3: Convergence Tests: All Series”**
     Link: MIT: Gilbert Strang’s *Calculus*: Chapter 10: Infinite Series:
     “[Section 10.3: Convergence Tests: All
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Strang-Chapter-10.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Strang-Chapter-10.pdf)” (PDF)  
       
      Instructions: This reading will cover sub-subunits 5.4.2 and
     5.4.3.  Please click on the link above, and read Section 10.3 in its
@@ -798,7 +798,7 @@ id="5.4.4"></span> 
     Convergence”**
     Link: Furman University: Dan Sloughter’s *Difference Equations to
     Differential Equations*: “[5.6 Infinite Series: Absolute
-    Convergence](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Sloughter-Chapter-5.6.pdf)” (PDF)  
+    Convergence](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Sloughter-Chapter-5.6.pdf)” (PDF)  
       
      Instructions: This assessment will cover sub-subunits 5.4.1-5.4.6. 
     Please click the link above, and do problems 1 (a, c, e, g), 2 (a,
@@ -836,7 +836,7 @@ id="5.4.4"></span> 
     Convergence”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Absolute and Conditional
-    Convergence](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-5.4.6-Absolute-and-Conditional-Convergence.pdf)” (PDF)  
+    Convergence](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-5.4.6-Absolute-and-Conditional-Convergence.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -882,7 +882,7 @@ Essentially, it is an infinite polynomial in x.*
     Sequences and Series: Section 11.8: Power Series”**
     Link: Whitman College: David Guichard’s *Calculus*: “[Chapter 11:
     Sequences and Series: Section 11.8: Power
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Guichard-Chapter-11.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Guichard-Chapter-11.pdf)” (PDF)  
       
      Instructions: Please click on the link above and read Section 11.8
     in its entirety (pages 278 through 281).  A key term to understand
@@ -939,7 +939,7 @@ Essentially, it is an infinite polynomial in x.*
     Notes for Calculus II: Power Series and the Uses of Power Series”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Power Series and the Uses of Power
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-5.5.1-Power-Series-and-the-Uses-of-Power.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-5.5.1-Power-Series-and-the-Uses-of-Power.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -996,7 +996,7 @@ constant (a value that will be the same for every series term).*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 9: Infinite Series: “[Section 9.8: Derivatives
     and Integrals of Power
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-9.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-9.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 9.8
     in its entirety (pages 533 through 539).  
@@ -1034,9 +1034,9 @@ function, and may be much easier to compute with.*
     Theorem” and “Section 9.11: Taylor Series”**
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 9: Infinite Series: “[Section 9.10: Taylor’s
-    Theorem](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-9.pdf)” (PDF)
+    Theorem](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-9.pdf)” (PDF)
     and “[Section 9.11: Taylor
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-9.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-9.pdf)” (PDF)  
       
      Instructions: Please click on the links above, and read Sections
     9.10 and 9.11 (pages 547 through 560).  
@@ -1059,7 +1059,7 @@ function, and may be much easier to compute with.*
     “Supplemental Notes for Calculus II: Taylor and MacLaurin Series”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Taylor and MacLaurin
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-5.5.3-Taylor-and-MacLaurin-Series.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-5.5.3-Taylor-and-MacLaurin-Series.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -1105,7 +1105,7 @@ function, and may be much easier to compute with.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 9: Infinite Series: “[Section 9.9: Approximations
     by Power
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-9.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-9.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 9.9
     in its entirety (pages 540 through 546).  Approximation by power
@@ -1145,7 +1145,7 @@ function, and may be much easier to compute with.*
     Series”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Other Topics Related to Taylor
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-5.5.4-Other-Topics-Related-to-Taylor-Series.pdf)” (PDF)  
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-5.5.4-Other-Topics-Related-to-Taylor-Series.pdf)” (PDF)  
       
      Also Available in:  
 

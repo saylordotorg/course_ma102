@@ -130,7 +130,7 @@ id="1.1.2"></span> 
     Integral”**
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 4: Integration:  “[Section 4.1: The Definite
-    Integral](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
+    Integral](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
       
      Instructions:  Please click on the link above, and read Section 4.1
     in its entirety (pages 175 through 185).  
@@ -256,7 +256,7 @@ resorting to limits of Riemann sums.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 4: Integration: “[Section 4.2: The Fundamental
     Theorem of
-    Calculus](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
+    Calculus](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
       
      Instructions:  Please click on the link above, and read Section 4.2
     in its entirety (pages 186 through 197).  This is a recap of the
@@ -336,7 +336,7 @@ resorting to limits of Riemann sums.*
     Integral”**
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 4: Integration: “[Section 4.3: The Indefinite
-    Integral](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
+    Integral](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
       
      Instructions:  Please click on the link above, and read Section 4.3
     in its entirety (pages 198 through 207).  In this text, the author
@@ -407,7 +407,7 @@ clear.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 4: Integration: “[Section 4.4: Integration by
     Change of
-    Variables](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
+    Variables](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 4.4
     in its entirety (pages 209 through 215).  
@@ -468,7 +468,7 @@ functions previously.*
     Calculus*: Chapter 8: Exponential and Logarithmic
     Functions: “[Section 8.3: Derivatives of Exponential Functions and
     the Number
-    e](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
+    e](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 8.3
     in its entirety (pages 441 through 447).  This chapter recaps the
@@ -539,7 +539,7 @@ functions previously.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 8: Exponential and Logarithmic
     Functions: “[Section 8.5: Natural
-    Logarithms](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
+    Logarithms](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 8.5
     in its entirety (pages 454 through 459).  This chapter reintroduces
@@ -582,7 +582,7 @@ functions previously.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 8: Exponential and Logarithmic
     Functions: “[Section 8.4: Some Uses of Exponential
-    Functions](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
       
      Instructions: Please click on the link above and read Section 8.4
     in its entirety (pages 449 through 453).  In this chapter, you will
@@ -620,7 +620,7 @@ functions previously.*
     “Supplemental Notes for Calculus II: Hyperbolic Functions”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Hyperbolic
-    Functions](http://www.saylor.org/site/wp-content/uploads/2012/09/MA102-1.2.3-HYPERBOLIC-FUNCTIONS.pdf)” (PDF)  
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-1.2.3-HYPERBOLIC-FUNCTIONS.pdf)” (PDF)  
       
      Also Available in:  
 
