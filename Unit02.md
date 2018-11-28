@@ -62,7 +62,7 @@ area between curves.*
     Curves”**
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 4: Integration: “[Section 4.5: Areas between Two
-    Curves](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
+    Curves](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 4.5
     in its entirety (pages 218 through 222).  
@@ -176,7 +176,7 @@ has rotational symmetry.*
     “Supplemental Notes for Calculus I: Finding Volumes by Slicing”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus I: Finding Volumes by
-    Slicing](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-2.2-Finding-Volumes-by-Slicing.pdf)” (PDF)  
+    Slicing](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-2.2-Finding-Volumes-by-Slicing.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -215,7 +215,7 @@ find the volume; as usual, when we have infinitely many pieces, this
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 6: Applications of the Integral: “[Section 6.2:
     Volumes of Solids of
-    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)” (PDF)  
+    Revolution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 6.2
     in its entirety (pages 308 through 318).  This reading will cover
@@ -297,7 +297,7 @@ find the volume; as usual, when we have infinitely many pieces, this
 
 -   **Assessment: Math Centre’s “Volumes: Exercises”**
     Link: Math Centre’s “[Volumes:
-    Exercises](https://resources.saylor.org/archived/wp-content/uploads/2012/09/9-08e.swf)” (Flash)  
+    Exercises](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/9-08e.swf)” (Flash)  
       
      Instructions: This assessment is for subunits 2.2 and 2.3; do not
     complete this assessment until you have worked through these
@@ -333,7 +333,7 @@ small distances.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 6: Applications of the Integral: “[Section 6.3:
     Length of a
-    Curve](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)” (PDF)  
+    Curve](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 6.3
     in its entirety (pages 319 through 325).  This reading discusses how
@@ -401,7 +401,7 @@ the “slices” we identified earlier and then add them together. *
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 6: Applications of the Integral: “[Section 6.4:
     Area of a Surface of
-    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)” (PDF)  
+    Revolution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 6.4
     in its entirety (pages 327 through 335).  In this beautiful
@@ -448,7 +448,7 @@ the “slices” we identified earlier and then add them together. *
     Revolution”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Areas of Surfaces of
-    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-2.5-Areas-of-Surfaces-of-Revolution.pdf)” (PDF)  
+    Revolution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-2.5-Areas-of-Surfaces-of-Revolution.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -484,7 +484,7 @@ range.*
     Averages”**
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 6: Applications of the Integral: “[Section 6.5:
-    Averages](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)” (PDF)  
+    Averages](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)” (PDF)  
       
      Instructions:  Please click on the link above, and read Section 6.5
     in its entirety (pages 336 through 340).  
@@ -555,7 +555,7 @@ connections.*
     Acceleration”**
     Link: Whitman College: David Guichard’s *Calculus*: Chapter 9:
     Applications of Integration: “[Section 9.2: Distance, Velocity,
-    Acceleration](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Guichard-Chapter-9.pdf)” (PDF)  
+    Acceleration](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Guichard-Chapter-9.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read the Section
     9.2 in its entirety (pages 192 through 194).  
@@ -592,7 +592,7 @@ connections.*
     Traveled”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus I: Displacement vs. Distance
-    Traveled](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-2.7.1-Displacement-vs-Distance-Travelled.pdf)” (PDF)  
+    Traveled](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-2.7.1-Displacement-vs-Distance-Travelled.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -618,7 +618,7 @@ connections.*
     Calculus 6.6 “Some Applications to Physics”**
     Link: University of Wisconsin: H. Jerome Kiesler’s *Elementary
     Calculus* 6.6 “[Some Applications to
-    Physics](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)”
+    Physics](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-6.pdf)”
     (PDF)  
         
      Instructions: Please click on the above link and read the indicated
@@ -661,7 +661,7 @@ connections.*
     “Supplemental Notes for Calculus I: Moments and Centers of Mass”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus I: Moments and Centers of
-    Mass](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-2.7.3-Moments-and-Centers-of-Mass.pdf)” (PDF)  
+    Mass](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-2.7.3-Moments-and-Centers-of-Mass.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -687,7 +687,7 @@ connections.*
     Applications of Integration: “Section 9.5: Work”**
     Link: Whitman College: David Guichard’s *Calculus*: Chapter 9:
     Applications of Integration: “[Section 9.5:
-    Work](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Guichard-Chapter-9.pdf)” (PDF)  
+    Work](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Guichard-Chapter-9.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 9.5
     in its entirety (pages 205 through 208).  Work is a fundamental
@@ -734,7 +734,7 @@ connections.*
     Forces”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus I: Work, Fluid Pressures, and
-    Forces](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-2.7.4-Work-Fluid-Pressures.pdf)” (PDF)  
+    Forces](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-2.7.4-Work-Fluid-Pressures.pdf)” (PDF)  
       
      Also Available in:  
 

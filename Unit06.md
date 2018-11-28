@@ -78,7 +78,7 @@ differential equations for later courses.*
     Initial Value Problems”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus I: Differential Equations and Initial Value
-    Problems](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-5.5.4-Equations-and-Initial-Value-Problems.pdf)” (PDF)  
+    Problems](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-5.5.4-Equations-and-Initial-Value-Problems.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -112,7 +112,7 @@ of one in the other.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 8: Exponential and Logarithmic Functions:
     “[Section 8.6: Some Differential
-    Equations](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
+    Equations](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
         
      Instructions: Click on the link above, and read Section 8.6 (pages
     461 through 468).The most basic differential equation is the
@@ -160,7 +160,7 @@ of one in the other.*
     Equations”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: First Order Differential
-    Equations](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-6.2-First-Order-Differential-Equations.pdf)” (PDF)  
+    Equations](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-6.2-First-Order-Differential-Equations.pdf)” (PDF)  
       
      Also Available in:  
 
@@ -336,7 +336,7 @@ the accrual of interest in a bank account.*
     to Differential Equations: “6.3 Models of Growth and Decay”**
     Link: Furman University: Dan Sloughter’s Difference Equations to
     Differential Equations: “[6.3 Models of Growth and
-    Decay](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Sloughter-Chapter-6.3.pdf)” (PDF)  
+    Decay](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Sloughter-Chapter-6.3.pdf)” (PDF)  
       
      Instructions: Click the link above and read this section. This
     reading covers the topics outlined in sub-subunits 6.4.1-6.4.4.   
@@ -429,7 +429,7 @@ the accrual of interest in a bank account.*
     Decay”**
     Link: Furman University: Dan Sloughter’s *Difference Equations to
     Differential Equations* [“6.3 Models of Growth and
-    Decay”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Sloughter-Chapter-6.3.pdf)
+    Decay”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Sloughter-Chapter-6.3.pdf)
     (PDF)  
         
      Instructions: This assessment covers subunits 6.4.1-6.4.4.  Click
@@ -472,7 +472,7 @@ the accrual of interest in a bank account.*
     “Supplemental Notes for Calculus II: Growth and Decay”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus II: Growth and
-    Decay](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-6.4.5-Growth-and-Decay.pdf)” (PDF)  
+    Decay](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-6.4.5-Growth-and-Decay.pdf)” (PDF)  
       
      Also Available in:  
 

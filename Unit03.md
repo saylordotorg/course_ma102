@@ -79,7 +79,7 @@ from different “families,” such as an exponential with a polynomial.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 7: Trigonometric Functions: “[Section 7.4:
     Integration by
-    Parts](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
+    Parts](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 7.4
     in its entirety (pages 391 through 395).  Integration by parts is a
@@ -159,7 +159,7 @@ exponents of such a problem until substitution applies.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 7: Trigonometric Functions: “[Section 7.5:
     Integrals of Powers of Trigonometric
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 7.5
     in its entirety (pages 397 through 401).  
@@ -244,7 +244,7 @@ bottom of a fraction or under a radical.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 7: Trigonometric Functions: “[Section 7.6:
     Trigonometric
-    Substitutions](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
+    Substitutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-7.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 7.6
     in its entirety (pages 402 through 405).  
@@ -317,7 +317,7 @@ us to integrate powers of tangent and secant more easily.*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 8: Exponential and Logarithmic Functions:
     “[Section 8.7: Derivatives and Integrals Involving
-    ln(x)](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
+    ln(x)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 8.7
     in its entirety (pages 469 through 473).  
@@ -408,7 +408,7 @@ sub-subunit.  For a review of those topics, see Beginning Algebra*
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 8: Exponential and Logarithmic Functions:
     “[Section 8.8: Integration of Rational
-    Functions](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
+    Functions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-8.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 8.8
     in its entirety (pages 474 through 480).  Once you have mastered
@@ -516,7 +516,7 @@ approximate the definite integral to any degree of accuracy we like
     Integration”**
     Link: University of Wisconsin: H. Jerome Keisler’s *Elementary
     Calculus*: Chapter 4: Integration: “[Section 4.6: Numerical
-    Integration](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
+    Integration](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-Kiesler-Chapter-4.pdf)” (PDF)  
       
      Instructions: Please click on the link above, and read Section 4.6
     in its entirety (pages 224 through 233).  In MA101, we used this
@@ -575,7 +575,7 @@ approximate the definite integral to any degree of accuracy we like
     “Supplemental Notes for Calculus I: Numerical Integration”**
     Link: Clinton Community College: Elizabeth Wood’s “[Supplemental
     Notes for Calculus I: Numerical
-    Integration](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA102-3.3-Numerical-Integration.pdf)” (PDF)  
+    Integration](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/MA102-3.3-Numerical-Integration.pdf)” (PDF)  
       
      Also Available in:  
 
